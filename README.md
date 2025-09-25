@@ -2,7 +2,7 @@
 
 fdesvallees@mailbox.org
 
-Based on [https://bcarter2490.shinyapps.io/NINALogAnalyzer/] (Brian Carter's program).
+Based on [Brian Carter's program](https://bcarter2490.shinyapps.io/NINALogAnalyzer/).
 
 Displays details from your NINA astrophotography log.   
 The upper frame has a time chart with most events in the log.   
@@ -12,6 +12,6 @@ Zoom and pan on the chart to see detail, click to set a cursor that indicates th
 
 Scroll in the log frame. Both frames are synchronized.
 
-Written in Javascript with [https://d3js.org/] (Mike Bostock's D3 library for data visualization).
+Written in Javascript with [Mike Bostock's D3 library for data visualization](https://d3js.org/) .
 
 
